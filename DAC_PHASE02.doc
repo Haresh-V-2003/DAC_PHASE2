@@ -34,3 +34,6 @@ Approach for making design:
         validation and testing the dataset. In addition, to the ANN, a Multiple Linear Regression (MLR)
         model has been used for comparing the performance against the ANN. The below section introduces
         the processes of Artificial Neural Network (ANN) and Multiple Linear Regression (MLR).
+
+Conclusion:
+        Thus the design making phase has been implemented successfully.
